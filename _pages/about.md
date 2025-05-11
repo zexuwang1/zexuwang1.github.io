@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am under the supervision of <a href='http://www.zibinzheng.com/cv'>Prof. Zibin Zheng (郑子彬)</a> and <a href='https://jiachi-chen.github.io/'>Associate Prof. Jiachi Chen (陈嘉弛)</a> at <a href='http://www.inpluslab.com'>InPlusLab</a> since Aug. 2022. 
+I am under the supervision of <a href='[[http://www.zibinzheng.com/cv](https://scholar.google.com/citations?hl=zh-CN&user=zWnsNrkAAAAJ)](https://scholar.google.com/citations?hl=zh-CN&user=zWnsNrkAAAAJ)'>Prof. Zibin Zheng (郑子彬)</a> and <a href='https://jiachi-chen.github.io/'>Associate Prof. Jiachi Chen (陈嘉弛)</a> at <a href='http://www.inpluslab.com'>InPlusLab</a> since Aug. 2022. 
 
 My research interests include program analysis and LLM. I have published multiple academic papers on smart contract security, including three papers in top-tier (CCF-A) venues such as ISSTA, FSE, and TSE.
 
