@@ -27,11 +27,11 @@ My research interests include program analysis and LLM. I have published multipl
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/overview.fse24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Wang Z`, Chen J, Wang Y, et al. Efficiently detecting reentrancy vulnerabilities in complex smart contracts[J]. Proceedings of the ACM on Software Engineering, 2024, 1(FSE): 161-181. (CCF A)  
-[[HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/FSE2024_PaperId_79.pdf)
 
 </div>
 </div>
