@@ -36,7 +36,7 @@ My research interests include program analysis and LLM. I have published multipl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/tse24.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2024</div><img src='images/tse24.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Z. Wang`, J. Chen, P. Zheng, Y. Zhang, W. Zhang and Z. Zheng, "Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools," in IEEE Transactions on Software Engineering, vol. 51, no. 1, pp. 1-13, Jan. 2025, doi: 10.1109/TSE.2024.3427321. (CCF A)  
@@ -45,12 +45,16 @@ My research interests include program analysis and LLM. I have published multipl
 </div>
 </div>
 
-### Chinese
----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2025</div><img src='images/tse24.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+-	`Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng. Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). (CCF A)  
+[[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
+
+</div>
+</div>
+
+
 
 
 
