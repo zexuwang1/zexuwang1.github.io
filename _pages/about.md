@@ -19,7 +19,7 @@ redirect_from:
 
 I am under the supervision of <a href='https://scholar.google.com/citations?hl=zh-CN&user=zWnsNrkAAAAJ'>Prof. Zibin Zheng (郑子彬)</a> and <a href='https://jiachi-chen.github.io/'>Associate Prof. Jiachi Chen (陈嘉弛)</a> at <a href='http://www.inpluslab.com'>InPlusLab</a> since Aug. 2022. 
 
-My research interests include program analysis and LLM. I have published multiple academic papers on smart contract security, including three papers in top-tier (CCF-A) venues such as ISSTA, FSE, and TSE.
+My research interests include program analysis and LLM. I have published multiple academic papers on smart contract security, including three papers in top-tier conferences and journals classified as CCF-A, such as ISSTA, FSE, and TSE.
 
 
 
@@ -27,11 +27,11 @@ My research interests include program analysis and LLM. I have published multipl
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Wang Z`, Chen J, Wang Y, et al. Efficiently detecting reentrancy vulnerabilities in complex smart contracts[J]. Proceedings of the ACM on Software Engineering, 2024, 1(FSE): 161-181. (CCF A)  
+[[HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
