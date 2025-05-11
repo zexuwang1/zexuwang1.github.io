@@ -36,6 +36,14 @@ My research interests include program analysis and LLM. I have published multipl
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/tse24.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Z. Wang`, J. Chen, P. Zheng, Y. Zhang, W. Zhang and Z. Zheng, "Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools," in IEEE Transactions on Software Engineering, vol. 51, no. 1, pp. 1-13, Jan. 2025, doi: 10.1109/TSE.2024.3427321. (CCF A)  
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10596931) [[PDF]](/pdf/TSE_ReEP.pdf)
+
+</div>
+</div>
 
 ### Chinese
 ---
