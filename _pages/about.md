@@ -25,7 +25,6 @@ My research interests include program analysis and LLM. I have published multipl
 
 # 📝 Publications 
 
-### English 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/fse24.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
