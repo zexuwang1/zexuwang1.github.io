@@ -51,17 +51,17 @@ My research interests include program analysis and LLM. I have published multipl
 </div>
 </div>
 
-- `Wang Z`, Wen B, Luo Z. Towards on blockchain data privacy protection with cryptography and software architecture approach[C]//Blockchain and Trustworthy Systems: Second International Conference, BlockSys 2020, Dali, China, August 6–7, 2020, Revised Selected Papers 2. Springer Singapore, 2020: 205-217.
-
-- `Wang, Z.`, Wen, B., Luo, Z., Liu, S. (2021). M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_32.
+- `WANG Zexu`, WEN Bin. Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching[J]. Journal of Applied Sciences, 2024, 42(2): 364-374.
 
 - Liu, S., Wen, B., `Wang, Z`. (2021). Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_13.
-
-- `WANG Zexu`, WEN Bin. Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching[J]. Journal of Applied Sciences, 2024, 42(2): 364-374.
 
 - Shaojie LIU, Bin WEN, `Zexu WANG`. Multi-Technology Fused Data Trading Method Based on Federated Learning[J]. Computer Engineering, 2024, 50(3): 182-190.
 
 - `WANG Zexu`, WEN Bin, Ziqiang Luo. Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem. Computer & Digital Engineering, 2021,49(07):1383-1388.
+
+- `Wang Z`, Wen B, Luo Z. Towards on blockchain data privacy protection with cryptography and software architecture approach[C]//Blockchain and Trustworthy Systems: Second International Conference, BlockSys 2020, Dali, China, August 6–7, 2020, Revised Selected Papers 2. Springer Singapore, 2020: 205-217.
+
+- `Wang, Z.`, Wen, B., Luo, Z., Liu, S. (2021). M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_32.
 
 ### Patents
 
