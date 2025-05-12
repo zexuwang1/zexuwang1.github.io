@@ -61,7 +61,7 @@ My research interests include program analysis and LLM. I have published multipl
 
 - Shaojie LIU, Bin WEN, `Zexu WANG`. Multi-Technology Fused Data Trading Method Based on Federated Learning[J]. Computer Engineering, 2024, 50(3): 182-190.
 
--   Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem. `WANG Zexu`, WEN Bin, Ziqiang Luo. Computer & Digital Engineering, 2021,49(07):1383-1388.
+- `WANG Zexu`, WEN Bin, Ziqiang Luo. Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem. Computer & Digital Engineering, 2021,49(07):1383-1388.
 
 ### Patents
 
