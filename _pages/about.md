@@ -59,27 +59,27 @@ My research interests include program analysis and LLM. I have published multipl
 
 - Liu, S., Wen, B., `Wang, Z`. (2021). Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_13. [[HTML]](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_13) [[PDF]](/pdf/blocksys3.pdf)
 
-- 关键路径预搜索的符号执行智能合约漏洞检测. 王泽旭;文斌.应用科学学报,2024(02)
+- `WANG Zexu`, WEN Bin. Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching[J]. Journal of Applied Sciences, 2024, 42(2): 364-374.
 
-- 基于联邦学习的多技术融合数据交易方法. 刘少杰;文斌;王泽旭.计算机工程,2024(03)
+- Shaojie LIU, Bin WEN, `Zexu WANG`. Multi-Technology Fused Data Trading Method Based on Federated Learning[J]. Computer Engineering, 2024, 50(3): 182-190.
 
-- 差分进化变异策略rand/3/bin求解0-1背包问题. 王泽旭;文斌;罗自强.计算机与数字工程,2021(07)
+- 	Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem. `WANG Zexu`, WEN Bin, Ziqiang Luo. Computer & Digital Engineering, 2021,49(07):1383-1388.
 
-### 专利
-
----
-- 一种基于符号抽象分析的智能合约安全审计方法。
-
-- 漏洞检测方法、装置、计算机设备及可读存储介质。
-
-- 一种基于符号执行验证的智能合约漏洞检测方法及装置
-
-### 软件著作
+### Patents
 
 ---
-- 基于区块链的智能合约安全漏洞认证溯源服务体系 V1.0、登记编号: No.08615601;
+- A smart contract security auditing method based on symbolic abstraction analysis.
+  
+- Vulnerability detection method, apparatus, computer equipment, and readable storage medium.
+  
+- A smart contract vulnerability detection method and apparatus based on symbolic execution verification.
 
-- 保护数据隐私的区块链医疗数据服务系统 V1.0、登记编号:No.08002067;
+### Software Copyrights
+
+---
+- Blockchain-based smart contract security vulnerability authentication and traceability service system V1.0, Registration No.: No.08615601;
+  
+- Blockchain-based medical data service system for protecting data privacy V1.0, Registration No.: No.08002067;
 
 
 
