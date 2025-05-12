@@ -24,6 +24,15 @@ My research interests include program analysis and LLM. I have published multipl
 # 📝 Publications
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2025</div><img src='images/ISSTA25.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-   `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng. Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). (CCF A)
+    [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2024</div><img src='images/fse24.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,20 +51,14 @@ My research interests include program analysis and LLM. I have published multipl
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA 2025</div><img src='images/ISSTA25.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `Wang Z`, Wen B, Luo Z. Towards on blockchain data privacy protection with cryptography and software architecture approach[C]//Blockchain and Trustworthy Systems: Second International Conference, BlockSys 2020, Dali, China, August 6–7, 2020, Revised Selected Papers 2. Springer Singapore, 2020: 205-217.
+#  [[HTML]](https://link.springer.com/chapter/10.1007/978-981-15-9213-3_16) [[PDF]](/pdf/blocksys1.pdf)
 
--   `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng. Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). (CCF A)
-    [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
+- `Wang, Z.`, Wen, B., Luo, Z., Liu, S. (2021). M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_32.
+# [[HTML]](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_32) [[PDF]](/pdf/blocksys2.pdf)
 
-</div>
-</div>
-
-- `Wang Z`, Wen B, Luo Z. Towards on blockchain data privacy protection with cryptography and software architecture approach[C]//Blockchain and Trustworthy Systems: Second International Conference, BlockSys 2020, Dali, China, August 6–7, 2020, Revised Selected Papers 2. Springer Singapore, 2020: 205-217. [[HTML]](https://link.springer.com/chapter/10.1007/978-981-15-9213-3_16) [[PDF]](/pdf/blocksys1.pdf)
-
-- `Wang, Z.`, Wen, B., Luo, Z., Liu, S. (2021). M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_32. [[HTML]](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_32) [[PDF]](/pdf/blocksys2.pdf)
-
-- Liu, S., Wen, B., `Wang, Z`. (2021). Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_13. [[HTML]](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_13) [[PDF]](/pdf/blocksys3.pdf)
+- Liu, S., Wen, B., `Wang, Z`. (2021). Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_13.
+# [[HTML]](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_13) [[PDF]](/pdf/blocksys3.pdf)
 
 - `WANG Zexu`, WEN Bin. Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching[J]. Journal of Applied Sciences, 2024, 42(2): 364-374.
 
