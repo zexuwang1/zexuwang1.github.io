@@ -59,12 +59,27 @@ My research interests include program analysis and LLM. I have published multipl
 
 - Liu, S., Wen, B., `Wang, Z`. (2021). Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_13. [[HTML]](https://link.springer.com/chapter/10.1007/978-981-16-7993-3_13) [[PDF]](/pdf/blocksys3.pdf)
 
-- 
+- 关键路径预搜索的符号执行智能合约漏洞检测. 王泽旭;文斌.应用科学学报,2024(02)
 
-- 
+- 基于联邦学习的多技术融合数据交易方法. 刘少杰;文斌;王泽旭.计算机工程,2024(03)
 
+- 差分进化变异策略rand/3/bin求解0-1背包问题. 王泽旭;文斌;罗自强.计算机与数字工程,2021(07)
 
+### 专利
 
+---
+- 一种基于符号抽象分析的智能合约安全审计方法。
+
+- 漏洞检测方法、装置、计算机设备及可读存储介质。
+
+- 一种基于符号执行验证的智能合约漏洞检测方法及装置
+
+### 软件著作
+
+---
+- 基于区块链的智能合约安全漏洞认证溯源服务体系 V1.0、登记编号: No.08615601;
+
+- 保护数据隐私的区块链医疗数据服务系统 V1.0、登记编号:No.08002067;
 
 
 
