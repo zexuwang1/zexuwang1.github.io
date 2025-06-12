@@ -48,18 +48,18 @@ My research interests include program analysis and LLM. I have published multipl
 ### Patents
 
 ---
-- A smart contract security auditing method based on symbolic abstraction analysis.
-
-- Vulnerability detection method, apparatus, computer equipment, and readable storage medium.
-
-- A smart contract vulnerability detection method and apparatus based on symbolic execution verification.
+- 一种基于符号抽象分析的智能合约安全审计方法。
+  
+- 漏洞检测方法、装置、计算机设备及可读存储介质。
+  
+- 一种基于符号执行验证的智能合约漏洞检测方法及装置。
 
 ### Software Copyrights
 
 ---
-- Blockchain-based smart contract security vulnerability authentication and traceability service system V1.0, Registration No.: No.08615601;
+- 基于区块链的智能合约安全漏洞认证与溯源服务系统V1.0, 登记号: No.08615601
 
-- Blockchain-based medical data service system for protecting data privacy V1.0, Registration No.: No.08002067;
+- 基于区块链的保护数据隐私的医疗数据服务系统V1.0, 登记号: No.08002067
 
 # Professional Services
 ---
