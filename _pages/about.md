@@ -24,8 +24,9 @@ My research interests include program analysis and LLM. I have published multipl
 # 📝 Publications
 
 ---
--   `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng. Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts. The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). (CCF A)
-    [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
+-  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.**
+   `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng.
+   [The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). **CCF A**] [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
 
 -   `Wang Z`, Chen J, Wang Y, et al. Efficiently detecting reentrancy vulnerabilities in complex smart contracts[J]. Proceedings of the ACM on Software Engineering, 2024, 1(FSE): 161-181. (CCF A)
     [[HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/FSE2024_PaperId_79.pdf)
