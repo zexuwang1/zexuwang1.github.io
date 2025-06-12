@@ -24,15 +24,17 @@ My research interests include program analysis and LLM. I have published multipl
 # 📝 Publications
 
 ---
--  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.**
-   `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng.
+-  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.**  
+   `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng.  
    [The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). **CCF A**] [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
 
--   `Wang Z`, Chen J, Wang Y, et al. Efficiently detecting reentrancy vulnerabilities in complex smart contracts[J]. Proceedings of the ACM on Software Engineering, 2024, 1(FSE): 161-181. (CCF A)
-    [[HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/FSE2024_PaperId_79.pdf)
+-  **Efficiently detecting reentrancy vulnerabilities in complex smart contracts.**  
+    `Zexu Wang`, Jiachi Chen, Yanlin Wang, Yu Zhang, Weizhe Zhang, Zibin Zheng.  
+    [Proceedings of the ACM on Software Engineering (FSE'24). **CCF A**] [HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/FSE2024_PaperId_79.pdf)
 
--   `Z. Wang`, J. Chen, P. Zheng, Y. Zhang, W. Zhang and Z. Zheng, "Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools," in IEEE Transactions on Software Engineering, vol. 51, no. 1, pp. 1-13, Jan. 2025, doi: 10.1109/TSE.2024.3427321. (CCF A)
-    [[HTML]](https://ieeexplore.ieee.org/abstract/document/10596931) [[PDF]](/pdf/TSE_ReEP.pdf)
+-  **Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools.**    
+    `Zexu Wang`, Jiachi Chen, Zibin Zheng, Peilin Zheng, Yu Zhang, Weizhe Zhang  
+    [IEEE Transactions on Software Engineering (TSE'24). **CCF A**] [HTML]](https://ieeexplore.ieee.org/abstract/document/10596931) [[PDF]](/pdf/TSE_ReEP.pdf)
 
 - `WANG Zexu`, WEN Bin. Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching[J]. Journal of Applied Sciences, 2024, 42(2): 364-374.
 
