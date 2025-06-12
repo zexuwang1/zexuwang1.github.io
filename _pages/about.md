@@ -43,22 +43,22 @@ My research interests include program analysis and LLM. I have published multipl
 -   **Multi-Technology Fused Data Trading Method Based on Federated Learning.**  
     Shaojie Liu, Bin Wen, `Zexu Wang`.  
     [Computer Engineering, 2024]
+
+-   **Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem.**  
+    `Zexu Wang`, Bin Wen, Ziqiang Luo.  
+    [Computer & Digital Engineering, 2021]
    
--  **M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability.** [[HTML]](https://doi.org/10.1007/978-981-16-7993-3_32)  
+-  **M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability.**    
     `Zexu Wang`, Bin Wen, Ziqiang Luo, Shaojie Liu.  
     [Blockchain and Trustworthy Systems (BlockSys'21)] 
    
--   **Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS.** [[HTML]](https://doi.org/10.1007/978-981-16-7993-3_13)  
+-   **Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS.**     
     Shaojie Liu, Bin Wen, `Zexu Wang`.  
     [Blockchain and Trustworthy Systems (BlockSys'21)] 
 
 -   **Towards on blockchain data privacy protection with cryptography and software architecture approach.**  
     `Zexu Wang`, Bin Wen, Ziqiang Luo.  
     [Blockchain and Trustworthy Systems (BlockSys'20)]
-
--   **Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem.**  
-    `Zexu Wang`, Bin Wen, Ziqiang Luo.  
-    [Computer & Digital Engineering, 2021]
 
 ### Patents
 
