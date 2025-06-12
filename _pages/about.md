@@ -24,29 +24,41 @@ My research interests include program analysis and LLM. I have published multipl
 # 📝 Publications
 
 ---
--  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.**  
+-  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.** [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)   
    `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng.  
-   [The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). **CCF A**] [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)
+   [The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25). **CCF A**] 
 
--  **Efficiently detecting reentrancy vulnerabilities in complex smart contracts.**  
+-  **Efficiently detecting reentrancy vulnerabilities in complex smart contracts.** [[HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/FSE2024_PaperId_79.pdf)   
     `Zexu Wang`, Jiachi Chen, Yanlin Wang, Yu Zhang, Weizhe Zhang, Zibin Zheng.  
-    [Proceedings of the ACM on Software Engineering (FSE'24). **CCF A**] [HTML]](https://dl.acm.org/doi/pdf/10.1145/3643734) [[PDF]](/pdf/FSE2024_PaperId_79.pdf)
+    [Proceedings of the ACM on Software Engineering (FSE'24). **CCF A**] 
 
--  **Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools.**    
+-  **Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools.** [[HTML]](https://ieeexplore.ieee.org/abstract/document/10596931) [[PDF]](/pdf/TSE_ReEP.pdf)    
     `Zexu Wang`, Jiachi Chen, Zibin Zheng, Peilin Zheng, Yu Zhang, Weizhe Zhang  
-    [IEEE Transactions on Software Engineering (TSE'24). **CCF A**] [HTML]](https://ieeexplore.ieee.org/abstract/document/10596931) [[PDF]](/pdf/TSE_ReEP.pdf)
+    [IEEE Transactions on Software Engineering (TSE'24). **CCF A**]
 
-- `WANG Zexu`, WEN Bin. Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching[J]. Journal of Applied Sciences, 2024, 42(2): 364-374.
+-   **Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching.**  
+    `Zexu Wang`, Bin Wen.  
+    [Journal of Applied Sciences, 2024]
 
-- Liu, S., Wen, B., `Wang, Z`. (2021). Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_13.
+-   **Multi-Technology Fused Data Trading Method Based on Federated Learning.**  
+    Shaojie Liu, Bin Wen, `Zexu Wang`.  
+    [Computer Engineering, 2024]
+   
+-  **M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability.** [[HTML]](https://doi.org/10.1007/978-981-16-7993-3_32)  
+    `Zexu Wang`, Bin Wen, Ziqiang Luo, Shaojie Liu.  
+    [Blockchain and Trustworthy Systems (BlockSys'21)] 
+   
+-   **Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS.** [[HTML]](https://doi.org/10.1007/978-981-16-7993-3_13)  
+    Shaojie Liu, Bin Wen, `Zexu Wang`.  
+    [Blockchain and Trustworthy Systems (BlockSys'21)] 
 
-- Shaojie LIU, Bin WEN, `Zexu WANG`. Multi-Technology Fused Data Trading Method Based on Federated Learning[J]. Computer Engineering, 2024, 50(3): 182-190.
+-   **Towards on blockchain data privacy protection with cryptography and software architecture approach.**  
+    `Zexu Wang`, Bin Wen, Ziqiang Luo.  
+    [Blockchain and Trustworthy Systems (BlockSys'20)]
 
-- `WANG Zexu`, WEN Bin, Ziqiang Luo. Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem. Computer & Digital Engineering, 2021,49(07):1383-1388.
-
-- `Wang Z`, Wen B, Luo Z. Towards on blockchain data privacy protection with cryptography and software architecture approach[C]//Blockchain and Trustworthy Systems: Second International Conference, BlockSys 2020, Dali, China, August 6–7, 2020, Revised Selected Papers 2. Springer Singapore, 2020: 205-217.
-
-- `Wang, Z.`, Wen, B., Luo, Z., Liu, S. (2021). M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability. In: Dai, HN., Liu, X., Luo, D.X., Xiao, J., Chen, X. (eds) Blockchain and Trustworthy Systems. BlockSys 2021. Communications in Computer and Information Science, vol 1490. Springer, Singapore. https://doi.org/10.1007/978-981-16-7993-3_32.
+-   **Differential Evolution Mutation Strategy rand/3/bin to Solve 0-1 Knapsack Problem.**  
+    `Zexu Wang`, Bin Wen, Ziqiang Luo.  
+    [Computer & Digital Engineering, 2021]
 
 ### Patents
 
