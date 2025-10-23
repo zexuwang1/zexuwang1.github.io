@@ -19,22 +19,23 @@ redirect_from:
 
 I am under the supervision of <a href='https://scholar.google.com/citations?hl=zh-CN&user=zWnsNrkAAAAJ'>Prof. Zibin Zheng (郑子彬)</a> and <a href='https://jiachi-chen.github.io/'>Associate Prof. Jiachi Chen (陈嘉弛)</a> at <a href='http://www.inpluslab.com'>InPlusLab</a> since Aug. 2022.
 
-My research interests include program analysis and LLM. I have published multiple academic papers on smart contract security, including three papers in top-tier conferences and journals classified as CCF-A, such as ISSTA, FSE, and TSE.
+My research interests include program analysis and LLM. I have published multiple academic papers on smart contract security, including three papers in top-tier conferences and journals classified as CCF-A, such as ISSTA, FSE, ICSE, ASE and TSE.
 
 # 📝 Publications
 
 ---
-- **One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts.**
-  `Zexu Wang`, Jiachi Chen, Zewei Lin, Wenqing Chen, Kaiwen Ning, Jianxing Yu, Yu Zhang, Weizhe Zhang, Zibin Zheng.
-  [The IEEE/ACM International Conference on Software Engineering (ICSE'26). CCF-A]
 
-- **SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking.**
-  Zewei Lin, Jiachi Chen, Jingwen Zhang, `Zexu Wang`, Yuming Feng, Weizhe Zhang, Zibin.
-  [The 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025]
+-  **One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts.**    
+   `Zexu Wang`, Jiachi Chen, Zewei Lin, Wenqing Chen, Kaiwen Ning, Jianxing Yu, Yu Zhang, Weizhe Zhang, Zibin Zheng.  
+   [The IEEE/ACM International Conference on Software Engineering (ICSE'26). **CCF-A**] 
 
-- - **Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents.**
-  Kaiwen Ning, Jiachi Chen, Jingwen Zhang, Wei Li, `Zexu Wang`, Yuming Feng, Weizhe Zhang, Zibin Zheng.
-  [IEEE Transactions on Software Engineering (MajorRevision). **CCF A**]
+-  **SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking.**    
+   Zewei Lin, Jiachi Chen, Jingwen Zhang, `Zexu Wang`, Yuming Feng, Weizhe Zhang, Zibin.  
+   [The 40th IEEE/ACM International Conference on Automated Software Engineering, (ASE'25). **CCF-A**] 
+
+-  **Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents.**    
+   Kaiwen Ning, Jiachi Chen, Jingwen Zhang, Wei Li, `Zexu Wang`, Yuming Feng, Weizhe Zhang, Zibin Zheng.  
+   [IEEE Transactions on Software Engineering (MajorRevision). **CCF A**] 
 
 -  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.** [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)   
    `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng.  
