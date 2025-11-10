@@ -63,15 +63,15 @@ My research interests include program analysis and LLM. I have published multipl
    
 -  **M-A-R: A Dynamic Symbol Execution Detection Method for Smart Contract Reentry Vulnerability.**    
     `Zexu Wang`, Bin Wen, Ziqiang Luo, Shaojie Liu.  
-    [Blockchain and Trustworthy Systems (BlockSys'21)] 
+    [Blockchain and Trustworthy Systems, 2021] 
    
 -   **Exploiting the Medical Data Storage Implementation and Privacy Protection with Consortium Blockchain and IPFS.**     
     Shaojie Liu, Bin Wen, `Zexu Wang`.  
-    [Blockchain and Trustworthy Systems (BlockSys'21)] 
+    [Blockchain and Trustworthy Systems, 2021] 
 
 -   **Towards on blockchain data privacy protection with cryptography and software architecture approach.**  
     `Zexu Wang`, Bin Wen, Ziqiang Luo.  
-    [Blockchain and Trustworthy Systems (BlockSys'20)]
+    [Blockchain and Trustworthy Systems, 2020]
 
 ### Patents
 
