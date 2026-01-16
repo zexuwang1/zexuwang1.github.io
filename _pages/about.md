@@ -35,7 +35,7 @@ My research interests include program analysis and LLM. I have published multipl
 
 -  **Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents.**    
    Kaiwen Ning, Jiachi Chen, Jingwen Zhang, Wei Li, `Zexu Wang`, Yuming Feng, Weizhe Zhang, Zibin Zheng.  
-   [IEEE Transactions on Software Engineering (MajorRevision). **CCF A**] 
+   [IEEE Transactions on Software Engineering (TSE'26). **CCF A**] 
 
 -  **Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts.** [[HTML]](https://arxiv.org/abs/2504.07589) [[PDF]](/pdf/ISSTA2025.pdf)   
    `Zexu Wang`, Jiachi Chen, Tao Zhang, Yu Zhang, Weizhe Zhang, Yuming Feng, Zibin Zheng.  
