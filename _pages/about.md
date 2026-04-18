@@ -89,9 +89,9 @@ My research interests include program analysis and large language models. I have
 ### Software Copyrights
 
 ---
-- 基于区块链的智能合约安全漏洞认证与溯源服务系统V1.0, 登记号: No.08615601
+- Blockchain-based Smart Contract Security Vulnerability Certification and Traceability Service System V1.0, Registration No. 08615601
 
-- 基于区块链的保护数据隐私的医疗数据服务系统V1.0, 登记号: No.08002067
+- Blockchain-based Privacy-Preserving Medical Data Service System V1.0, Registration No. 08002067
 
 <span class='anchor' id='professional-services'></span>
 
