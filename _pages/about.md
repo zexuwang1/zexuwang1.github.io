@@ -49,6 +49,7 @@ My research interests include program analysis and large language models. I have
     `Zexu Wang`, Jiachi Chen, Zibin Zheng, Peilin Zheng, Yu Zhang, Weizhe Zhang  
     [IEEE Transactions on Software Engineering (TSE'24). **CCF A**]
 
+<!--
 -   **Smart Contract Vulnerability Detection of Symbol Execution with Critical Path Pre-searching.**  
     `Zexu Wang`, Bin Wen.  
     [Journal of Applied Sciences, 2024]
@@ -72,6 +73,7 @@ My research interests include program analysis and large language models. I have
 -   **Towards on blockchain data privacy protection with cryptography and software architecture approach.**  
     `Zexu Wang`, Bin Wen, Ziqiang Luo.  
     [Blockchain and Trustworthy Systems, 2020]
+-->
 
 ### Patents
 
