@@ -97,6 +97,6 @@ My research interests include program analysis and large language models. I have
 
 # 🤝 Professional Services
 ---
-Program Committee: Blocksys'23
+Program Committee: Blocksys'23 (CCF-C), BCRA'26 (CCF-B)
 
-Reviewer for Journals: TSE (CCF-A), BCRA (Q1)
+Reviewer for Journals: TSE (CCF-A), BCRA (JCR Q1)
