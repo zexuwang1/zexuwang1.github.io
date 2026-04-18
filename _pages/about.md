@@ -78,13 +78,13 @@ My research interests include program analysis and large language models. I have
 ### Patents
 
 ---
-- 域名权限管理方法、装置、计算机设备及可读存储介质
-  
-- 一种基于符号抽象分析的智能合约安全审计方法。
-  
-- 漏洞检测方法、装置、计算机设备及可读存储介质。
-  
-- 一种基于符号执行验证的智能合约漏洞检测方法及装置。
+- Domain permission management method, device, computer equipment, and readable storage medium. CN 120474845 B.
+
+- Vulnerability detection method, device, computer equipment, and readable storage medium. CN 118860406 B.
+
+- A smart contract security auditing method based on symbolic abstraction analysis. CN 114201754 B.
+
+- A smart contract vulnerability detection method and device based on symbolic execution verification. CN 113688403 A.
 
 ### Software Copyrights
 
